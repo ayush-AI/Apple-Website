@@ -4,7 +4,7 @@ import hero from "@assets/images/hero.jpeg";
 import hmv from "@assets/videos/hero.mp4";
 import smallmv from "@assets/videos/smallHero.mp4";
 import highlightFirstmv from "@assets/videos/highlight-first.mp4";
-import highlightSectmv from "@assets/videos/highlight-second.mp4";
+import highlightSectmv from "@assets/videos/highlight-sec.mp4";
 import highlightThirdmv from "@assets/videos/highlight-third.mp4";
 import highlightFourthmv from "@assets/videos/highlight-fourth.mp4";
 import exploremv from "@assets/videos/explore.mp4";
